@@ -14,7 +14,7 @@
 
 ## :computer: About
 
-Happy is an application that connects people to institutional care homes to make many children's day happier 💜
+Happy is an application that connects people to institutional care homes to make many children's day happier 😄
 
 ## :rocket: Technologies
 
